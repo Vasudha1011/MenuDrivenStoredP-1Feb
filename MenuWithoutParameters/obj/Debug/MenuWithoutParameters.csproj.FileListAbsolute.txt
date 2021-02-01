@@ -1,0 +1,7 @@
+F:\Dotnet jan 2021\SqlAssignments\MenuDrinWithSp 1 Feb\MenuWithoutParameters\MenuWithoutParameters\bin\Debug\MenuWithoutParameters.exe.config
+F:\Dotnet jan 2021\SqlAssignments\MenuDrinWithSp 1 Feb\MenuWithoutParameters\MenuWithoutParameters\bin\Debug\MenuWithoutParameters.exe
+F:\Dotnet jan 2021\SqlAssignments\MenuDrinWithSp 1 Feb\MenuWithoutParameters\MenuWithoutParameters\bin\Debug\MenuWithoutParameters.pdb
+F:\Dotnet jan 2021\SqlAssignments\MenuDrinWithSp 1 Feb\MenuWithoutParameters\MenuWithoutParameters\obj\Debug\MenuWithoutParameters.csprojAssemblyReference.cache
+F:\Dotnet jan 2021\SqlAssignments\MenuDrinWithSp 1 Feb\MenuWithoutParameters\MenuWithoutParameters\obj\Debug\MenuWithoutParameters.csproj.CoreCompileInputs.cache
+F:\Dotnet jan 2021\SqlAssignments\MenuDrinWithSp 1 Feb\MenuWithoutParameters\MenuWithoutParameters\obj\Debug\MenuWithoutParameters.exe
+F:\Dotnet jan 2021\SqlAssignments\MenuDrinWithSp 1 Feb\MenuWithoutParameters\MenuWithoutParameters\obj\Debug\MenuWithoutParameters.pdb
